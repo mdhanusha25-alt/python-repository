@@ -1,0 +1,40 @@
+import java.util.Scanner;
+public class student{
+  public static void main(String[]args){
+  Scanner sc=new Scanner(System.in);
+    String name;
+    int age;
+    int number;
+    string department;
+ }
+   Student(String name, int age, int number){
+        name=String name;
+        age=Int age;
+        number=Int number;
+        department=String department;
+    }
+void displayStudentDetails(){
+        System.out.println("Student Name:"+name);
+        System.out.println("Age:"+age);
+        System.out.println("Student Number:"+number);
+        System.out.println("department:"+department);
+}
+ 
+  class mark extends student{
+  int m1,m2m3,tot;
+  float avg;
+  string res;
+  mark(int m1,int m2,int m3){
+    mark1=m1;
+    mark2=m2;
+    mark3=m3;
+  }
+  
+  
+  
+
+
+
+
+
+
