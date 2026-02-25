@@ -1,0 +1,13 @@
+public class stringBuffer{
+  public static void main(string args[]){
+    string buffer SB=new StringBuffer("Hellow"  
+      System.Out.Println("orignal String Buff:"+SB);
+      SB.append("world");
+      System.out.println("after concatenation:"+SB);
+      SB reverse();
+      System.out.println("reverse:"+SB);
+      SB.insert("hellow");
+      System.out.println("insert:"+SB);
+    }
+ }
+      
