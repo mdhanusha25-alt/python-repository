@@ -1,0 +1,14 @@
+import java.util.Scanner;
+   class num{
+  public Static void main(String args[])
+  {
+    Scanner sc=new Scanner(System.in)
+      int a=sc.nextInt();
+      if(a<o);
+      System.out.println("a is positive")
+      else if(a>o);
+      System.out.println("a is negative")
+      else;
+      System.out.ptintln("a is zero")
+  }
+}
